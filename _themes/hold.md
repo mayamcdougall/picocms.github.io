@@ -4,6 +4,9 @@ thumbnail: themes/images/thumbnails/hold.jpg
 categories:
   - portfolio
 description: Showcase your portfolio.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/BesrourMS/hold
 images:
   - themes/images/fullsize/hold.jpg

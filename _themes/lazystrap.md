@@ -5,6 +5,9 @@ categories:
   - single-page
   - portfolio
 description: I would pull myself up, but I'm too lazy.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/BesrourMS/LazyStrapPico
 images:
   - themes/images/fullsize/lazystrap.png

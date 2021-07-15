@@ -5,6 +5,9 @@ categories:
   - single-page
   - portfolio
 description: Show everyone what you can do.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/mayamcdougall/startbootstrap-freelancer-pico
 images:
   - themes/images/fullsize/freelancer.png

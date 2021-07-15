@@ -4,6 +4,9 @@ thumbnail: themes/images/thumbnails/gallery.png
 categories:
   - portfolio
 description: A responsive theme with cool background images.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/northivanastan/picocms-gallery
 images:
   - themes/images/fullsize/gallery.jpg

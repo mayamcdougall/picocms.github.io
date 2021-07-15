@@ -5,6 +5,9 @@ categories:
   - general
   - blog
 description: And some PureCSS.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/blocknotes/just-pico
 images:
   - themes/images/fullsize/just_pico.png

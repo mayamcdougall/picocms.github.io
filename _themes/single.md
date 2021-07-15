@@ -4,6 +4,9 @@ thumbnail: themes/images/thumbnails/single.jpg
 categories:
   - portfolio
 description: A single page that makes a statement.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/BesrourMS/single
 images:
   - themes/images/fullsize/single.jpg

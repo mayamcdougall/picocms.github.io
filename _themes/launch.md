@@ -4,6 +4,9 @@ thumbnail: themes/images/thumbnails/launch.jpg
 categories:
   - single-page
 description: For those of us who aren't ready yet.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/BesrourMS/launch
 images:
   - themes/images/fullsize/launch.jpg

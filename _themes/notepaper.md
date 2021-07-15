@@ -5,6 +5,9 @@ categories:
   - general
   - blog
 description: Dark wood grain, lined paper, and sticky note widgets.
+labels:
+  - "r2g"
+  - "cf"
 link: http://notepaper.mayamcdougall.me
 images:
   - themes/images/fullsize/notepaper.jpg

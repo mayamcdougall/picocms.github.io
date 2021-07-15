@@ -5,6 +5,9 @@ categories:
   - single-page
   - portfolio
 description: A projection of yourself.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/mayamcdougall/astral-pico
 images:
   - themes/images/fullsize/astral.jpg

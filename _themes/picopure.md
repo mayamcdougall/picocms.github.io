@@ -4,6 +4,9 @@ thumbnail: themes/images/thumbnails/picopure.png
 categories:
   - general
 description: Simple and responsive, with a sidebar.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/narcis-radu/pico-pure
 images:
   - themes/images/fullsize/picopure.png

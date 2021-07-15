@@ -4,6 +4,9 @@ thumbnail: themes/images/thumbnails/launcher.jpg
 categories:
   - single-page
 description: Launching in 3... 2... 1...
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/BesrourMS/launcher
 images:
   - themes/images/fullsize/launcher.jpg

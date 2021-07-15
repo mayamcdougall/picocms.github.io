@@ -4,6 +4,9 @@ thumbnail: themes/images/thumbnails/simpletwo.png
 categories:
   - general
 description: Two column minimalism.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/sonst-was/simpleTwo
 images:
   - themes/images/fullsize/simpletwo.png

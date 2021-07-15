@@ -5,6 +5,9 @@ categories:
   - single-page
   - portfolio
 description: Let yourself drift away.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/BesrourMS/ethereal
 images:
   - themes/images/fullsize/ethereal.jpg

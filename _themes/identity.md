@@ -5,6 +5,9 @@ categories:
   - single-page
   - portfolio
 description: Your Personal "Business Card".
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/BesrourMS/Identity
 images:
   - themes/images/fullsize/identity.jpg

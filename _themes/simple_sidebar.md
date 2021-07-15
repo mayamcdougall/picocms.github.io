@@ -4,6 +4,9 @@ thumbnail: themes/images/thumbnails/simple_sidebar.png
 categories:
   - general
 description: Off-canvas sidebar navigation.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/dmelo/bt-theme
 images:
   - themes/images/fullsize/simple_sidebar.png

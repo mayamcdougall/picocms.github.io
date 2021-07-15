@@ -5,6 +5,9 @@ categories:
   - general
   - blog
 description: Put your title front and center.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/randomchars42/pico-femto
 images:
   - themes/images/fullsize/femto.png

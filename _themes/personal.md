@@ -5,6 +5,9 @@ categories:
   - single-page
   - portfolio
 description: Experience is key.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/BesrourMS/personal
 images:
   - themes/images/fullsize/personal.png

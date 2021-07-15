@@ -5,6 +5,9 @@ categories:
   - single-page
   - portfolio
 description: Give your site some depth.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/BesrourMS/dimension
 images:
   - themes/images/fullsize/dimension.jpg

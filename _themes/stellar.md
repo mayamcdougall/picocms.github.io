@@ -5,6 +5,9 @@ categories:
   - single-page
   - portfolio
 description: A projection of yourself.
+labels:
+  - "r2g"
+  - "cf"
 link: https://github.com/mayamcdougall/stellar-pico
 images:
   - themes/images/fullsize/stellar1.png
